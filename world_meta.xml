@@ -2,17 +2,17 @@
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Game>Assembly-CSharp</Game>
   <GameVersion>0.2.3458.16914</GameVersion>
-  <DateTime>133029149394482079</DateTime>
-  <DaysPast>19</DaysPast>
+  <DateTime>133029487879649888</DateTime>
+  <DaysPast>23</DaysPast>
   <WorldName>Space</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
   <WorldTravelCount>0</WorldTravelCount>
   <WorldFileName>BoxStation</WorldFileName>
   <WorkShopFileHandle>0</WorkShopFileHandle>
   <NumberOfRooms>2</NumberOfRooms>
-  <NumberOfPipeNetworks>1</NumberOfPipeNetworks>
-  <NumberOfCableNetworks>9</NumberOfCableNetworks>
-  <NumberOfThings>21079</NumberOfThings>
-  <NumberOfAtmospheres>55</NumberOfAtmospheres>
+  <NumberOfPipeNetworks>3</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>14</NumberOfCableNetworks>
+  <NumberOfThings>21987</NumberOfThings>
+  <NumberOfAtmospheres>57</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
