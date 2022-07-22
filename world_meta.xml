@@ -2,7 +2,7 @@
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Game>Assembly-CSharp</Game>
   <GameVersion>0.2.3458.16914</GameVersion>
-  <DateTime>133029932932108830</DateTime>
+  <DateTime>133029970129315814</DateTime>
   <DaysPast>27</DaysPast>
   <WorldName>Space</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
@@ -12,7 +12,7 @@
   <NumberOfRooms>3</NumberOfRooms>
   <NumberOfPipeNetworks>5</NumberOfPipeNetworks>
   <NumberOfCableNetworks>16</NumberOfCableNetworks>
-  <NumberOfThings>22432</NumberOfThings>
+  <NumberOfThings>36893</NumberOfThings>
   <NumberOfAtmospheres>141</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
