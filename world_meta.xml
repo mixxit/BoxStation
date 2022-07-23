@@ -1,18 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Game>Assembly-CSharp</Game>
-  <GameVersion>0.2.3458.16914</GameVersion>
-  <DateTime>133030471220632856</DateTime>
-  <DaysPast>30</DaysPast>
-  <WorldName>Space</WorldName>
-  <IsOnAwayMission>false</IsOnAwayMission>
-  <WorldTravelCount>0</WorldTravelCount>
-  <WorldFileName>BoxStation</WorldFileName>
-  <WorkShopFileHandle>0</WorkShopFileHandle>
-  <NumberOfRooms>13</NumberOfRooms>
-  <NumberOfPipeNetworks>5</NumberOfPipeNetworks>
-  <NumberOfCableNetworks>16</NumberOfCableNetworks>
-  <NumberOfThings>61603</NumberOfThings>
-  <NumberOfAtmospheres>1067</NumberOfAtmospheres>
-  <NumberOfAsteriods>0</NumberOfAsteriods>
-</WorldMetaData>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d967856685d380d1867d9884b68f1ea5224493f13774cbe4875291d1ed1a41c
+size 805
